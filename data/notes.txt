@@ -1,0 +1,20 @@
+Meeting Notes – Project Orion Kickoff
+
+Date: September 15, 2025
+Attendees: Sarah (PM), Daniel (Tech Lead), Mira (UX), Leo (QA)
+
+Summary:
+Project Orion aims to build an internal knowledge assistant using a Retrieval-Augmented Generation (RAG) architecture. The tool will allow employees to ask natural-language questions about company policies, training materials, and technical documentation.
+
+Key Points:
+1. LangChain will be used to orchestrate document retrieval and question-answering.
+2. Chroma will serve as the vector database for storing embeddings.
+3. All project documents will be chunked and embedded using sentence-transformer models.
+4. The minimum viable product should be ready for internal testing by December 2025.
+5. Security approval from the IT department is required before deployment.
+
+Action Items:
+- Sarah to prepare the first sprint plan by September 22.
+- Daniel to set up the development environment and confirm model compatibility.
+- Mira to design the basic web interface mockups.
+- Leo to define initial testing metrics for response accuracy.
